@@ -1,5 +1,9 @@
 # shellphish
-Email removal script for on-prem Exchange
+Email removal script for on-prem Exchange I wrote a few years ago. Most orgs are going 365 now, so I don't think it's really necessary. But if you're using on-prem Exchange it's useful.
+
+Depending on the number of mailboxes it can take a little while to run, but it works.
+
+Also I'm no powershell guru, but sometimes quick and dirty is all you need.
 
 # usage
 Run it from the directory you installed it like any Windows script. Examples below.
